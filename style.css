@@ -1,0 +1,26 @@
+
+header p{
+    color: ffffff;
+    font-weight: 600;
+}
+section, footer, form{
+    margin: 40px;
+}
+
+h1{
+font-size: 63px;
+color: #6615d1;
+padding: 20px;
+text-align: center;
+}
+
+h2{
+font-size: 24px;
+text-transform: uppercase;
+color: #303030;
+font-weight: 600;
+
+}
+
+
+
